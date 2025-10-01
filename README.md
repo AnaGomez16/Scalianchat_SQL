@@ -59,7 +59,7 @@
 - **str_interface.py**: Programa principal e interfaz en Streamlit.
 - **README.md**: Documentación detallada sobre el proyecto.
 - **requirements.txt**: Dependencias necesarias para la versión dockerizada.
-- Los demás archivos se explican detalladamente en la documentación de Notion [Notion ChatBot EvaSQL](https://past-alarm-18f.notion.site/Proyecto-pedag-gico-SCALIAN-Chatbot-SQL-2d78c4730d9c4d04a59279494481afaa?pvs=4)
+- Los demás archivos se explican detalladamente en la documentación: [Notion ChatBot EvaSQL](https://past-alarm-18f.notion.site/Proyecto-pedag-gico-SCALIAN-Chatbot-SQL-2d78c4730d9c4d04a59279494481afaa?pvs=4)
 
 ## Desarrolladores
 
